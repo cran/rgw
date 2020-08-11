@@ -1,7 +1,7 @@
-5d3c029c4ac90b88fe1b0bfdd10ab088 *DESCRIPTION
+f4b2303172885c111d44fe2a0bed0d23 *DESCRIPTION
 cece4998f75036d50620b5c6193dd327 *LICENSE
-5cf0fbec20a7131cd377b98cf8bc731b *NAMESPACE
-8b161d1bfe90dda41fba793a722e927d *R/rgw.R
+d7c6789ce5342259b31464e14426b572 *NAMESPACE
+b1eac73db614da9bc08005cc4a45988c *R/rgw.R
 ec5381e05f410c60baae19829490b8da *man/GoodmanWeare.Rd
-ab7529e07ff232fce1f239fdd2fad00c *man/GoodmanWeare.rem.Rd
-4e4c17459620b71e521ff83eeb4cf2a8 *man/rgw-package.Rd
+a4959219fd5862b35adc4f2260116337 *man/GoodmanWeare.rem.Rd
+617f27a46a8f4aa91a537c5db0dadbe1 *man/rgw-package.Rd
